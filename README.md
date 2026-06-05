@@ -1,0 +1,2 @@
+# AREA-AI-assignment-
+assignments
