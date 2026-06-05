@@ -1,1 +1,23 @@
+# Data Types Practice
 
+name = "Alex"                    # String
+age = 22                         # Integer
+height = 1.75                    # Float
+is_student = True                # Boolean
+
+ai_tools = ["ChatGPT", "Claude", "Gemini", "Copilot", "Perplexity"]  # List
+
+languages = ("Python", "Java", "C++")  # Tuple
+
+student = {
+    "name": "Alex",
+    "age": 22
+}  # Dictionary
+
+print(name)
+print(age)
+print(height)
+print(is_student)
+print(ai_tools)
+print(languages)
+print(student)
