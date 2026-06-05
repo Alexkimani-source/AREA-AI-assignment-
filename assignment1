@@ -1,1 +1,11 @@
+# variables
+name = "Alex Kimani"
+age = 22
+state_of_residence = "Mombasa"
+favorite_ai_tool = "CLaude"
 
+print("Personal Information")
+print("Name:", name)
+print("Age:", age)
+print("State of Residence:", state_of_residence)
+print("Favorite AI Tool:", favorite_ai_tool)
